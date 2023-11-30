@@ -123,7 +123,7 @@ public class Basic {
         //break {label}을 하면 해당 label이 가르키는 반복문을 빠져나오게 됨
         //continue {label}도 가능
         outter:
-        for(int i = 0; i < 3; i++){
+        for( i = 0; i < 3; i++){
             for(int k = 0; k < 3; k++){
                 if(i == 0 && k == 2)
                     break outter;

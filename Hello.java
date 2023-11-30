@@ -7,6 +7,7 @@ public class Hello{
         //보통 java에서는 class는 대문자로 시작
         //System은 class, out은 field, println은 method
         //-> System class 안에 out filed안에 println이라는 method가 존재하는 것
+        //(java.System API를 참고하면 out이라는 field는 실제로 Printstream이라는 class)
         System.out.println("Hello");
     }
 }
