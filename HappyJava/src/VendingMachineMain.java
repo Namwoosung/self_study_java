@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 //VendingMachine class를 사용하는 main
 public class VendingMachineMain {
     //static이 붙은 method는 class method라고 지칭

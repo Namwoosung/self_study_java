@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class Exam01 {
     public static void main(String[] args){
         Parent p1 = new Parent();

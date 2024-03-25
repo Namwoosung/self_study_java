@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class UserExam {
     public static void main(String[] args){
         User user = new User("dntjd", "우성");

@@ -1,4 +1,4 @@
-package com.example.util2;
+package HappyJava.src.com.example.util2;
 
 public class Calculator {
     public int divide(int x, int y){

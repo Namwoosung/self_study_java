@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class StandardOutput {
     public void println(boolean b){
         System.out.println("b");

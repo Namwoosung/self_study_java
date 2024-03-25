@@ -1,4 +1,4 @@
-package com.example.fw;
+package HappyJava.src.com.example.fw;
 
 public abstract class Controller {
     //protected는 같은 package내에 존재하거나 상속받은 class에서만 접근 가능

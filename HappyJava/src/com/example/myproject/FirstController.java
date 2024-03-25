@@ -1,6 +1,6 @@
-package com.example.myproject;
+package HappyJava.src.com.example.myproject;
 
-import com.example.fw.Controller;
+import HappyJava.src.com.example.fw.Controller;
 
 public class FirstController extends Controller {
     protected void run(){

@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class VendingMachine {
     //filed
 

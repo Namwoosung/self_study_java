@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class Parent {
     public int i= 10;
     public void printI(){

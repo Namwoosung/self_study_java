@@ -1,4 +1,8 @@
-public class Bus2 extends Car2{
+package HappyJava.src;
+
+import HappyJava.src.Car2;
+
+public class Bus2 extends Car2 {
     public Bus2(){
         super("Bus");
         System.out.println("Bus2 생성자");

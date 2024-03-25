@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public abstract class Car2 {
     public Car2(String name){
         super();

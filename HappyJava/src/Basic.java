@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 //실행을 하면 out이라는 폴더가 생성됨 -> 실행하면 compile결과를 out 폴더에서 관리하는 것
 public class Basic {
     //class 변수가 field인 것(C++에서는 멤버변수)

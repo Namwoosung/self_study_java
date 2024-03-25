@@ -1,4 +1,8 @@
-public class Bus extends Car{
+package HappyJava.src;
+
+import HappyJava.src.Car;
+
+public class Bus extends Car {
 
     //overriding
     public void run(){

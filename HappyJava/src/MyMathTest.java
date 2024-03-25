@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class MyMathTest {
     public static void main(String[] args){
         int value = MyMath.abs(-5);

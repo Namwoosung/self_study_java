@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class MyMath {
     //기본생성자는 생성자가 없을 경우 컴파일할 때 자동으로 생성됨
     //public MyMath(){} <- 기본 생성자

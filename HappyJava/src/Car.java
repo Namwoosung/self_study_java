@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class Car {
 
     //public Car(){} <- 기본생성자

@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class MathBeanTest {
     public static void main(String[] args){
         MathBean math = new MathBean();

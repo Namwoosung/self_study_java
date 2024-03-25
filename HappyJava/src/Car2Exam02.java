@@ -1,3 +1,5 @@
+package HappyJava.src;
+
 public class Car2Exam02 {
     public static void main(String[] args){
         //Car2 c = new Car2(); error
