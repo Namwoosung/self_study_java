@@ -1,5 +1,12 @@
 package HappyJava.src;
 
+/**
+ * 책 한권의 정보를 담기 위한 클래스
+ *
+ * @author urstroy(<a href="mailto:urstrory@gmail.com"></a>)
+ * @since 2022.03
+ * @version 0.1
+ */
 public class Book {
     private int price;
 
